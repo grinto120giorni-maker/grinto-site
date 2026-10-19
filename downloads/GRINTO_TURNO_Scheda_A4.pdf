@@ -1,0 +1,99 @@
+%PDF-1.4
+%GRINTO
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 4126 >>
+stream
+0.065 0.105 0.165 rg 0 759 595 83 re f
+1 0.65 0.27 rg BT /F2 12 Tf 1 0 0 1 35 815 Tm (GRINTO / TURNO) Tj ET
+1 1 1 rg BT /F2 24 Tf 1 0 0 1 35 787 Tm (PASSAGGIO CONSEGNE) Tj ET
+0.84 0.88 0.95 rg BT /F1 10 Tf 1 0 0 1 36 771 Tm (Una scheda utile. Un turno piu chiaro.) Tj ET
+0.1 0.18 0.28 rg BT /F2 9 Tf 1 0 0 1 35 742 Tm (DATA) Tj ET
+0.7 0.76 0.82 RG 0.7 w 35 728 m 193 728 l S
+0.1 0.18 0.28 rg BT /F2 9 Tf 1 0 0 1 207 742 Tm (TURNO) Tj ET
+0.7 0.76 0.82 RG 0.7 w 207 728 m 352 728 l S
+0.1 0.18 0.28 rg BT /F2 9 Tf 1 0 0 1 367 742 Tm (REPARTO) Tj ET
+0.7 0.76 0.82 RG 0.7 w 367 728 m 560 728 l S
+0.1 0.18 0.28 rg BT /F2 9 Tf 1 0 0 1 35 705 Tm (CHI LASCIA) Tj ET
+0.7 0.76 0.82 RG 0.7 w 35 688 m 280 688 l S
+0.1 0.18 0.28 rg BT /F2 9 Tf 1 0 0 1 310 705 Tm (CHI ENTRA) Tj ET
+0.7 0.76 0.82 RG 0.7 w 310 688 m 560 688 l S
+0.1 0.18 0.28 rg BT /F2 12 Tf 1 0 0 1 35 665 Tm (COSA DEVE SAPERE CHI ENTRA) Tj ET
+0.945 0.956 0.969 rg 35 614 525 42 re f
+0.1 0.18 0.28 rg BT /F2 10 Tf 1 0 0 1 46 639 Tm (COMANDE APERTE) Tj ET
+0.38 0.44 0.52 rg BT /F1 8 Tf 1 0 0 1 46 625 Tm (Numero e stato, senza dati dei clienti) Tj ET
+0.73 0.78 0.83 RG 0.7 w 299 626 m 550 626 l S
+0.945 0.956 0.969 rg 35 568 525 42 re f
+0.1 0.18 0.28 rg BT /F2 10 Tf 1 0 0 1 46 593 Tm (INGREDIENTI / PIATTI FINITI) Tj ET
+0.38 0.44 0.52 rg BT /F1 8 Tf 1 0 0 1 46 579 Tm (Indica cosa bloccare in sala, cassa e delivery) Tj ET
+0.73 0.78 0.83 RG 0.7 w 299 580 m 550 580 l S
+0.945 0.956 0.969 rg 35 522 525 42 re f
+0.1 0.18 0.28 rg BT /F2 10 Tf 1 0 0 1 46 547 Tm (PREPARAZIONI DA VERIFICARE) Tj ET
+0.38 0.44 0.52 rg BT /F1 8 Tf 1 0 0 1 46 533 Tm (Rotazione, etichette, conservazione) Tj ET
+0.73 0.78 0.83 RG 0.7 w 299 534 m 550 534 l S
+0.945 0.956 0.969 rg 35 476 525 42 re f
+0.1 0.18 0.28 rg BT /F2 10 Tf 1 0 0 1 46 501 Tm (ATTREZZATURE / GUASTI) Tj ET
+0.38 0.44 0.52 rg BT /F1 8 Tf 1 0 0 1 46 487 Tm (Cosa non funziona e chi e stato avvisato) Tj ET
+0.73 0.78 0.83 RG 0.7 w 299 488 m 550 488 l S
+0.945 0.956 0.969 rg 35 430 525 42 re f
+0.1 0.18 0.28 rg BT /F2 10 Tf 1 0 0 1 46 455 Tm (RITARDI E DISSERVIZI) Tj ET
+0.38 0.44 0.52 rg BT /F1 8 Tf 1 0 0 1 46 441 Tm (Ordini da aggiornare tramite i sistemi autorizzati) Tj ET
+0.73 0.78 0.83 RG 0.7 w 299 442 m 550 442 l S
+0.945 0.956 0.969 rg 35 384 525 42 re f
+0.1 0.18 0.28 rg BT /F2 10 Tf 1 0 0 1 46 409 Tm (ALLERGENI E SICUREZZA) Tj ET
+0.38 0.44 0.52 rg BT /F1 8 Tf 1 0 0 1 46 395 Tm (Decisioni da affidare al responsabile) Tj ET
+0.73 0.78 0.83 RG 0.7 w 299 396 m 550 396 l S
+0.945 0.956 0.969 rg 35 338 525 42 re f
+0.1 0.18 0.28 rg BT /F2 10 Tf 1 0 0 1 46 363 Tm (CONSEGNE E RITIRI) Tj ET
+0.38 0.44 0.52 rg BT /F1 8 Tf 1 0 0 1 46 349 Tm (Arrivi attesi, orari e referenti) Tj ET
+0.73 0.78 0.83 RG 0.7 w 299 350 m 550 350 l S
+0.945 0.956 0.969 rg 35 292 525 42 re f
+0.1 0.18 0.28 rg BT /F2 10 Tf 1 0 0 1 46 317 Tm (3 PRIORITA DEL NUOVO TURNO) Tj ET
+0.38 0.44 0.52 rg BT /F1 8 Tf 1 0 0 1 46 303 Tm (Azioni concrete per chi entra) Tj ET
+0.73 0.78 0.83 RG 0.7 w 299 304 m 550 304 l S
+0.1 0.18 0.28 rg BT /F2 12 Tf 1 0 0 1 35 239 Tm (PRIMA DI LASCIARE IL TURNO) Tj ET
+0.17 0.29 0.42 RG 36 216 11 11 re S
+0.1 0.18 0.28 rg BT /F1 9 Tf 1 0 0 1 56 219 Tm (Ho comunicato le informazioni critiche al collega.) Tj ET
+0.17 0.29 0.42 RG 36 196 11 11 re S
+0.1 0.18 0.28 rg BT /F1 9 Tf 1 0 0 1 56 199 Tm (Le comande aperte sono aggiornate nel sistema autorizzato.) Tj ET
+0.17 0.29 0.42 RG 36 176 11 11 re S
+0.1 0.18 0.28 rg BT /F1 9 Tf 1 0 0 1 56 179 Tm (I prodotti esauriti sono stati comunicati a sala e cassa.) Tj ET
+0.17 0.29 0.42 RG 36 156 11 11 re S
+0.1 0.18 0.28 rg BT /F1 9 Tf 1 0 0 1 56 159 Tm (Le questioni di sicurezza sono affidate al responsabile.) Tj ET
+0.17 0.29 0.42 RG 36 136 11 11 re S
+0.1 0.18 0.28 rg BT /F1 9 Tf 1 0 0 1 56 139 Tm (Abbiamo concordato le tre priorita del turno entrante.) Tj ET
+0.7 0.76 0.82 RG 0.7 w 35 108 m 560 108 l S
+0.1 0.18 0.28 rg BT /F2 10 Tf 1 0 0 1 35 90 Tm (CONSEGNE RICEVUTE:) Tj ET
+0.7 0.76 0.82 RG 0.7 w 173 88 m 560 88 l S
+0.32 0.4 0.49 rg BT /F1 8 Tf 1 0 0 1 35 62 Tm (Non inserire dati personali o segreti aziendali. Non sostituisce le procedure HACCP.) Tj ET
+0.98 0.61 0.2 rg 35 36 525 3 re f
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000017 00000 n 
+0000000066 00000 n 
+0000000123 00000 n 
+0000000259 00000 n 
+0000000329 00000 n 
+0000000404 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4581
+%%EOF
